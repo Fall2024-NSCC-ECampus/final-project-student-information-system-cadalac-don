@@ -1,0 +1,4 @@
+"C:\Users\vaugh\AppData\Local\JetBrains\CLion 2024.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/vaugh/AppData/Local/JetBrains/CLion 2024.2.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\vaugh\Dropbox\1 NSCC\C++\FinalProject_PeterVaughan_Class\Project" -B "C:\Users\vaugh\Dropbox\1 NSCC\C++\FinalProject_PeterVaughan_Class\Project\cmake-build-debug"
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/vaugh/Dropbox/1 NSCC/C++/FinalProject_PeterVaughan_Class/Project/cmake-build-debug

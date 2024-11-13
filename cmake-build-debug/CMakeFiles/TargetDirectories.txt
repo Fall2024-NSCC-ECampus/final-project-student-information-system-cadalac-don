@@ -1,3 +1,0 @@
-C:/Users/vaugh/Dropbox/1 NSCC/C++/FinalProject_PeterVaughan_Class/Project/cmake-build-debug/CMakeFiles/Project.dir
-C:/Users/vaugh/Dropbox/1 NSCC/C++/FinalProject_PeterVaughan_Class/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/vaugh/Dropbox/1 NSCC/C++/FinalProject_PeterVaughan_Class/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
